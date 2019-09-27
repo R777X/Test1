@@ -11,7 +11,7 @@ namespace Test1
         static void Main(string[] args)
         {
             Console.WriteLine("DASJASDJ");
-            Console.WriteLine("DSFSDFFSD");
+            Console.WriteLine("DSFSDFFSasdasdD");
         }
     }
 }
